@@ -1,0 +1,3 @@
+Name: Abdul kalam
+Skills: HTML, CSS, JS, Next.js, typescript, React.js etc...
+Email: babbu36790@gmail.com
